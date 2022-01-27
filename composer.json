@@ -1,0 +1,11 @@
+{
+    "name": "ydd/tool",
+    "description": "工具",
+    "authors": [
+        {
+            "name": "you",
+            "email": "ydd@tyll.net.cn"
+        }
+    ],
+    "require": {}
+}
