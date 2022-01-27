@@ -7,5 +7,6 @@
             "email": "ydd@tyll.net.cn"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability":"dev"
 }
