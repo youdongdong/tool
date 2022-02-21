@@ -1,6 +1,6 @@
 {
     "name": "youdongdong/tool",
-    "description": "工具",
+    "description": "tool",
     "type":"library",
     "version": "0.0.1",
     "authors": [
@@ -11,7 +11,8 @@
     ],
     "require": {
         "phpoffice/phpspreadsheet": "^1.21",
-        "php-ffmpeg/php-ffmpeg": "^0.19.0"
+        "php-ffmpeg/php-ffmpeg": "^0.19.0",
+        "phpoffice/phpword": "0.19.x-dev"
     },
     "minimum-stability":"dev",
     "autoload":{
