@@ -11,8 +11,7 @@
     ],
     "require": {
         "phpoffice/phpspreadsheet": "^1.21",
-        "php-ffmpeg/php-ffmpeg": "^0.19.0",
-        "phpoffice/phpword": "0.19.x-dev"
+        "php-ffmpeg/php-ffmpeg": "^0.19.0"
     },
     "minimum-stability":"dev",
     "autoload":{
